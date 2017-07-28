@@ -205,4 +205,5 @@ typings/
 # End of https://www.gitignore.io/api/node,macos,meteorjs,webstorm,jetbrains
 
 CREDS.md
+mup.js
 
